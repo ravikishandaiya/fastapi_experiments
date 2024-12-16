@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+fastapi_venv/
+secrets.py
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Operating System files
+Thumbs.db
