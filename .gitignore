@@ -2,6 +2,8 @@
 __pycache__/
 fastapi_venv/
 secrets.py
+.env
+extras
 
 # IDE
 .vscode/

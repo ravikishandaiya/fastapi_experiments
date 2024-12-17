@@ -3,6 +3,7 @@ sys.dont_write_bytecode = True
 
 from fastapi import FastAPI
 from .routers import authentication, users, posts
+from .config import settings
 
 
 ## FastAPI app object
